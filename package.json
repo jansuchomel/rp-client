@@ -1,0 +1,21 @@
+{
+  "name": "rp-client",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jansuchomel/rp-client.git"
+  },
+  "author": "Jan Suchomel",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  }
+}
